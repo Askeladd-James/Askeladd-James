@@ -1,9 +1,9 @@
 # My personal introduction  
 
-### Hi there 👋, I am Xia Mingfei, a new Githuber.  
+### Hi there 👋, I am Askeladd-James, a new Githuber.  
 
 ## edu experience  
-I am now a freshman in Shanghaitech University🌱, and my major is Computer Science.  
+I am now a freshman in University🌱, and my major is Computer Science.  
 I hope to dive into artificial intelligence in the future.  
 
 ## personal interest  
@@ -15,7 +15,7 @@ We have got a gold last month, thought the competition is not so large and autho
 I hope to learn more about back-end knowledge, and contact more projects on Github.  
 
 ## welcome to contact with me  
-My email is ly_xmf@shanghaitech.edu.cn, it's also avilable to see in my personal account profile.  
+My email is ly_xmf@outlook.com, and welcome to contact with me! 
 
 Thanks a lot, and hope to make progress together with you.  
 
